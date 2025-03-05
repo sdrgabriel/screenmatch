@@ -1,0 +1,5 @@
+rootProject.name = 'screenmatch'
+
+include 'core'
+include 'adapters'
+include 'application'
